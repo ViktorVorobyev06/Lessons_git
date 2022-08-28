@@ -3,6 +3,6 @@ Hello World!
 Good bay!
 git remote SSH)
 Line from user2
-another line from user1
+Line from user_2
 line from user1
 
