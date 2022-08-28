@@ -1,3 +1,10 @@
 Hello World!
 12345 
 Good bay!
+<<<<<<< HEAD
+=======
+git remote SSH)
+Line from user2
+asdf
+line from user1
+>>>>>>> 6f5d58e1a01507de5f7f366a7e0ead9bcd0efd77
