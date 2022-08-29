@@ -6,5 +6,5 @@ Line from user2
 some new feture
 Line from user_2
 line from user1
-line from user1-lesson about rebase
+line from user1-lesson about rebase2
 
